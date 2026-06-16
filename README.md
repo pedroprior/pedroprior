@@ -1,16 +1,25 @@
-## Hi there 👋
+# About me
 
-<!--
-**pedroprior/pedroprior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems engineer working at the intersection of low-level software, networking, and physical infrastructure. I write performance-sensitive code in C++ and Rust, build and operate high-availability distributed systems, and design industrial systems where software failures have physical consequences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+Networking, OS & Kernel, Distributed Infrastructure, Safety-Critical Systems, Predictive Industrial Systems
+
+---
+
+## Stack
+
+**Languages:** C++ · C · Rust · Python · Bash  
+**Networking:** eBPF · DPDK · RDMA (RoCEv2, libibverbs) · Unix and Windows networking stack  
+**Infrastructure:** Kubernetes · Ansible · Terraform · Proxmox · Observability  
+**Tools:** Qt · CUDA · GDB · Perf · Valgrind · CMake · eBPF · Perf · Valgrind
+
+---
+
+## Projects
+
+### [OXKERN](https://github.com/oxkern)
+Industrial intelligence platform for plasma CNC machines. Covers consumable lifecycle tracking, predictive maintenance (EWMA, MAD anomaly detection, bootstrap confidence intervals), and real-time adaptive control.
