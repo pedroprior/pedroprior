@@ -12,7 +12,7 @@ Networking, OS & Kernel, Distributed Infrastructure, Safety-Critical Systems, Pr
 
 ## Stack
 
-**Languages:** C++ · C · Rust · Python · Bash  
+**Languages:** C++ · Golang · C · Rust · Python · Bash  
 **Networking:** eBPF · DPDK · RDMA (RoCEv2, libibverbs) · Unix and Windows networking stack  
 **Infrastructure:** Kubernetes · Ansible · Terraform · Proxmox · Observability  
 **Tools:** Qt · CUDA · GDB · Perf · Valgrind · CMake
